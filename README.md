@@ -11,6 +11,6 @@ at Faculty of Computer Science and Engineering from Saints Cyril and Methodius U
 Date presented: 14.02.2022 <br />
 Project started: 04.2021 <br />
 Project finished: 02.2022 <br />
- 
+<br>
 Link to video-presentation: https://www.youtube.com/watch?v=aWHP1RkKPHg&ab_channel=ParkUp <br />
 Link to project site: https://develop.finki.ukim.mk/projects/ParkUp <br />

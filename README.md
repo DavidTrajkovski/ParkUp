@@ -3,7 +3,7 @@ This is a project made for the subject Internet Technologies from students: <br 
 <li> Andrej Tavchioski 191019 (coordinator) </li>  
 <li> Viktor Tasevski 191149 </li> 
 <li> David Trajkovski 191027 </li> 
-
+<br>
 under mentorship of professor: PhD Vangel Ajanovski <br />
 at Faculty of Computer Science and Engineering from Saints Cyril and Methodius University <br />
 

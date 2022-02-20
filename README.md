@@ -1,12 +1,11 @@
 # ParkUp
-This is a project made for the subject Internet Technologies from students:
-Andrej Tavchioski 191019 (coordinator)
-Viktor Tasevski 191149
-David Trajkovski 191027
+This is a project made for the subject Internet Technologies from students: <br />
+Andrej Tavchioski 191019 (coordinator) <br /> 
+Viktor Tasevski 191149 <br />
+David Trajkovski 191027 <br />
 
-under mentorship of professor: PhD Vangel Ajanovski
-at Faculty of Computer Science and Engineering
-from Saints Cyril and Methodius University
+under mentorship of professor: PhD Vangel Ajanovski <br />
+at Faculty of Computer Science and Engineering from Saints Cyril and Methodius University <br />
 
 Date presented: 14.02.2022
 Project started: 04.2021
